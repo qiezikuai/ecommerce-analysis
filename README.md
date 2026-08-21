@@ -34,9 +34,6 @@
 
 ![R×M 价值矩阵](report/charts_olist/05_RM价值矩阵.png)
 
-![留存热力图](report/charts_olist/07_留存热力图.png)
-
-![品类 GMV](report/charts_olist/08_品类GMV.png)
 
 ## 技术栈
 
